@@ -5,6 +5,7 @@ Notes from my web application testing practice, using a local vulnerable app (`1
 > Lab only. Nothing here comes from a live site.
 
 ---
+https://github.com/sbuTech101/Web-Application-Security-/blob/2e11d108e7bd3a378f00d2e7b6ecf4e120d00ef7/App-Sec/Vulnersql%20injection.PNG
 
 ## 1. Anatomy of an HTTP request
 
